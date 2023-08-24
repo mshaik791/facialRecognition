@@ -1,3 +1,8 @@
+This app detects faces of client inputted images. Features include Register, Login, Submit Image Links, Profile, Client-Image Upload Count, Update the avatar, Interactive buttons, CSS-Animations
+
+Built using React, Node.js, PostgreSQL, Express. Styling was done by using Tachyons.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
